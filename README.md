@@ -12,6 +12,9 @@
 
 * now serve [server] and [client] :)
 
+### to generate some fake products :
+ * run `php artisan seed`
+
 ## please note : 
 
 ### client build with react
